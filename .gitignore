@@ -1,0 +1,7 @@
+build/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+.vs/
